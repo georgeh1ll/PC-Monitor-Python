@@ -30,4 +30,4 @@ This project uses the following Python packages:
 Install the necessary packages using:
 
 ```bash
-pip install psutil pycaw comtypes
+pip install psutil pycaw comtypes tkinter
