@@ -1,4 +1,0 @@
-psutil
-pycaw
-comtypes
-pythoncom
