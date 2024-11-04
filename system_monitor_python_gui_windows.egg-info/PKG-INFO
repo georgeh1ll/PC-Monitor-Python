@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: system_monitor
+Name: system_monitor_python_gui_windows
 Version: 0.1
 Summary: A simple system monitor application using Tkinter.
 Home-page: https://github.com/yourusername/system_monitor

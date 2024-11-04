@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="system_monitor",
+    name="system_monitor_python_gui_windows",
     version="0.1",
     packages=find_packages(),
     install_requires=[

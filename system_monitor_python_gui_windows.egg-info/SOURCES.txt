@@ -1,0 +1,10 @@
+README.md
+setup.py
+system_monitor/__init__.py
+system_monitor/monitor.py
+system_monitor_python_gui_windows.egg-info/PKG-INFO
+system_monitor_python_gui_windows.egg-info/SOURCES.txt
+system_monitor_python_gui_windows.egg-info/dependency_links.txt
+system_monitor_python_gui_windows.egg-info/entry_points.txt
+system_monitor_python_gui_windows.egg-info/requires.txt
+system_monitor_python_gui_windows.egg-info/top_level.txt
