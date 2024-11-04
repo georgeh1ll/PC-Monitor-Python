@@ -11,6 +11,13 @@ A simple system monitoring application built with Python and Tkinter. This app c
 - **Current Time Display**: Updates every second with the current system time.
 - **User Interface**: Simple, dark-themed Tkinter GUI with real-time updates.
 
+![System Monitor Screenshot](Screenshot.png)
+
+## Notes
+
+- This application is designed to run on Windows due to the dependency on `pycaw` for volume control.
+- Ensure you have administrator privileges if you encounter access errors when gathering system information.
+
 ## Requirements
 
 This project uses the following Python packages:
@@ -19,7 +26,7 @@ This project uses the following Python packages:
 - `tkinter`: For creating the GUI.
 - `pycaw`: For accessing system volume information on Windows.
 - `comtypes`: Required by `pycaw` for interfacing with Windows COM objects.
-  
+
 Install the necessary packages using:
 
 ```bash
