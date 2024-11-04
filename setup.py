@@ -15,16 +15,17 @@ setup(
             'system_monitor=system_monitor.monitor:main',  # Entry point to your app
         ],
     },
-    description="A GUI Windows system monitor application using Python.",
+    description="A simple system monitor application using Tkinter.",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author="George Hill",
+    author="Your Name",
     author_email="your.email@example.com",
-    url="https://github.com/georgeh1ll/PC-Monitor-Python",  # Replace with your repo URL
+    url="https://github.com/yourusername/system_monitor",  # Replace with your repo URL
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: Windows",
+        "Operating System :: OS Independent",  # Change this line
+        "Natural Language :: English",  # You can add more if applicable
     ],
     python_requires='>=3.6',
 )
